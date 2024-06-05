@@ -1,0 +1,1 @@
+# -Transfer-of-accelerometer-data-from-Arduino-Nano-33-BLE-to-central-device-using-BLE-protocol-
